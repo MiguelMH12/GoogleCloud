@@ -1,0 +1,9 @@
+com\example\demo\googlecontroller\GoogleController.class
+com\example\demo\googlemodel\Json.class
+com\example\demo\GoogleCloudApplication.class
+com\example\demo\googlemodel\Salida.class
+com\example\demo\googlemodel\Features.class
+com\example\demo\googlemodel\Image.class
+com\example\demo\googlemodel\TextInput.class
+com\example\demo\googlemodel\Requests.class
+com\example\demo\googleservice\GoogleService.class
